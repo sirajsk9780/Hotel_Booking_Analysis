@@ -7,7 +7,7 @@ It transforms raw hotel booking data into actionable insights, helping understan
 
 ## 📸 Dashboard Preview
 
-![Hotel Booking Dashboard](dashboard.png)
+![Hotel Booking Dashboard](Dashboard.png)
 
 
 ## 🔑 Key Features
