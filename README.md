@@ -1,2 +1,32 @@
-# Hotel_Booking_Analysis
-Power BI Hotel Booking Dashboard analyzing guest behavior, booking trends, and revenue KPIs. Includes segmentation of Adults, Children, Babies into Couple/Family, ADR insights, cancellations, repeated guests, and room type analysis. Built with DAX &amp; Power Query for data-driven decisions.
+# 📊 Hotel Booking Dashboard - Power BI
+
+This project presents an interactive **Hotel Booking Dashboard** built in **Power BI**.  
+It transforms raw hotel booking data into actionable insights, helping understand **guest behavior, booking trends, and revenue performance**.
+
+---
+
+## 🔑 Key Features
+- 📅 **Booking Trends** – arrival dates by year, month, week number  
+- 🛏️ **Guest Segmentation** – Adults, Children, Babies → classified into *Couple* and *Family*  
+- 📈 **KPIs** – ADR (Average Daily Rate), stay duration, cancellations, repeated guests  
+- 🌍 **Market Insights** – bookings by country, distribution channels, and customer type  
+- 🏨 **Room Analysis** – reserved vs assigned rooms, booking changes, special requests  
+
+---
+
+## 🛠️ Tools & Skills
+- **Power BI** → DAX, Data Modeling, Interactive Visualizations  
+- **Power Query** → Data Cleaning & Transformation  
+- **Data Analytics** → Trend Analysis, Segmentation, Forecasting  
+
+---
+
+## 📌 Insights
+- Identified seasonal & weekly booking patterns  
+- Classified guests into *Couple* vs *Family* for better segmentation  
+- Tracked cancellations and repeated guest trends  
+- Compared actual vs expected performance for better forecasting  
+
+---
+
+## 📂 Project Structure
