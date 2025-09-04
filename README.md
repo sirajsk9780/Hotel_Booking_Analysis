@@ -5,6 +5,11 @@ It transforms raw hotel booking data into actionable insights, helping understan
 
 ---
 
+## 📸 Dashboard Preview
+
+![Hotel Booking Dashboard](dashboard.png)
+
+
 ## 🔑 Key Features
 - 📅 **Booking Trends** – arrival dates by year, month, week number  
 - 🛏️ **Guest Segmentation** – Adults, Children, Babies → classified into *Couple* and *Family*  
@@ -30,3 +35,6 @@ It transforms raw hotel booking data into actionable insights, helping understan
 ---
 
 ## 📂 Project Structure
+-Hotel Booking - Raw Data Set
+-Hotel Booking Report - Report
+-Power Bi Dashboard
